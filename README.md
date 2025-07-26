@@ -10,11 +10,6 @@ A collection of practical MySQL and SQL scripts developed while learning databas
 - Real-life scenarios: working with employees, orders, products, and more.
 - Includes notes and commented sections explaining each important command for easy self-study.
 
-## Screenshots
-
-- [Sample Practice Script](./PracticeScript.sql)
-- [Employee Query Examples](./Mydb.sql)
-
 ## Requirements
 
 - MySQL or MariaDB installed.
