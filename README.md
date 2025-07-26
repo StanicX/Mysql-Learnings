@@ -13,7 +13,7 @@ A collection of practical MySQL and SQL scripts developed while learning databas
 ## Screenshots
 
 - [Sample Practice Script](./PracticeScript.sql)
-- [Employee Query Examples](./My-db.sql)
+- [Employee Query Examples]([./My-db.sql](https://github.com/StanicX/Mysql-Learnings/blob/08caec79da5a90d4d7c9ff8d65af16ff6201395a/My%20db.sql))
 
 ## Requirements
 
