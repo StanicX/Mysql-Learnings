@@ -13,7 +13,7 @@ A collection of practical MySQL and SQL scripts developed while learning databas
 ## Screenshots
 
 - [Sample Practice Script](./PracticeScript.sql)
-- [Employee Query Examples]([./My_db.sql])
+- [Employee Query Examples]([./Mydb.sql])
 
 ## Requirements
 
